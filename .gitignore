@@ -1,2 +1,6 @@
 exercises/exercise1/Caltech101
 **.pth
+exercises/exercise2/data
+*.DS_Store
+**.DS_Store
+.DS_Store
